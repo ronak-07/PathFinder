@@ -18,6 +18,8 @@ Usage
 
       python map.py
 
+![alt text](https://github.com/ronak-07/PathFinder/blob/master/Secundrabad_RGIA.png)
+
 General Description
 -------------------
 - Using OsmToRoadGraph repository by [AndGem](https://github.com/AndGem) osm file can be converted to graph with nodes and vertex, also the distance between them(g(x)).
