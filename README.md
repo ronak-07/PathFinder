@@ -20,7 +20,7 @@ Usage
 
 General Description
 -------------------
-- Using OsmToRoadGraph repository by [AndGem] (https://github.com/AndGem) osm file can be converted to graph with nodes and vertex, also the distance between them(g(x)).
+- Using OsmToRoadGraph repository by [AndGem](https://github.com/AndGem) osm file can be converted to graph with nodes and vertex, also the distance between them(g(x)).
 - Using A* algorithm and the graph above, relevant nodes are stored.
 - Using Selenium webdriver these coordinates are plotted on the map. 
 - For the heuristic value (h(x)), geopy package was used.
